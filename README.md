@@ -1,4 +1,7 @@
 # Fibonacci-series-up-to-10000
+<div id="badges">
+  <img src="https://api.visitorbadge.io/api/visitors?path=jaydattpatel%2FFibonacci-series&label=Visitors&countColor=%2337d67a" alt="Visitor badge" width="100" height="28"/>
+</div>
 Fibonacci series up to 10000 and more using C++
 0 : 0
      1 : 1
